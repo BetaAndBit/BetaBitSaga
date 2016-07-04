@@ -22,3 +22,26 @@ To już na poważnie rozzłościło Bita. Już zbierał się by powiedzieć coś
 -	To było niemiłe, czy ja się naśmiewam z Twojego imienia? – odpowiedział rozkładek, jak widać o coś rozgniewany.
 
 Ale wiesz, imię normalny to nie takie normlane imię, normalnie to chyba inaczej się nazywają … zaczął Bit ale stwierdził że nie wie jak normalnie nazywa się rozkładki
+
+
+
+
+Co co ty robisz?
+
+To co wszystkie rozkładki, generuję.
+
+Tutaj wtrącił się kot.
+Zadaniem rozkładków jest losowanie wartości dla rzeczy, które zdarzają się losowo. Przykładowo, ten rozkładek jest odpowiedzialny za wagę nowonarodzonych dzieci. Każde dziecko jak się rodzi ma inną wagę, a jaką będzie miało decyduje właśnie ten rozkłądek. Jego kształ mówi jak często zdarzają się jakie wartości. Zobaczcie tutaj. Ponieważ najwięcej rozkładka jest w przedziale [] to najwięcej dzieci ma taką właśnie wagę. Bardzo mało ma wagę większą niż xxx.
+
+-	Rozkładku, czy wiesz może kiedy wypadnie mi pierwszy ząb?
+-	Przykro mi, ja się zębami nie zajmuję. Musisz szukać dalej.
+
+To chodźmy dalej.
+
+Spotkali inżyniera. Siedział za biurkiem, na którym miał komputer i trzy ekrany. Po  ekranach sunęło morze liczb. 
+Czy wiesz możę kiedy wypadnie mnie pierwszy ząbek?
+-	Oczywiście, pierwsze zęby wypadają średnio w wieku xxx lat. 
+-	Ale ja mam już xxx i mi jeszcze nie wypadł, to kiedy wypadnie?
+-	Na wiem tylko kiedy średnio wypadają zęby. Ale nei wiem kiedy wypadnie Twój ząb.
+-	To chyba nie jest zbyt przydatne, co z tego że znasz średnią jak nie wiesz nic o żadnym zębie.
+
